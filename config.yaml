@@ -1,0 +1,11 @@
+paths:
+  output_dir: "outputs"
+  input_dir: "inputs"
+  default_video_input: "cyclists.mp4"
+  default_video_output: "output_video.mp4"
+  default_image_input: "cyclist_image.png"
+  default_image_output: "output.png"
+
+
+model:
+  yolo_model: "yolov8s.pt"
